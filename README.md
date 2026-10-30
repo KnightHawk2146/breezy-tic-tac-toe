@@ -1,5 +1,5 @@
 # breezy-tic-tac-toe
-A tic-tac-toe game I created in December of 2023 as my final project for Intro to Programming at Lake Superior College.
+A tic-tac-toe game created in December of 2023 as my final project for Intro to Programming at Lake Superior College.
 _______________________________________________________________________________________________________________________
 
 <strong>Language:</strong> Python
