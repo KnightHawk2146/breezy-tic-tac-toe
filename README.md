@@ -1,6 +1,6 @@
 # breezy-tic-tac-toe
 A Python tic-tac-toe game I created as my final project for Intro to Programming at Lake Superior College. 
-
+<br>
 
 Language: Python
 
